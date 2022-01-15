@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "object-assign": "^4.1.1",
-    "video.js": "^6.13.0",
+    "video.js": "^7.17.0",
     "videojs-contrib-hls": "^5.15.0",
     "videojs-flash": "^2.2.1",
     "videojs-hotkeys": "^0.2.27"
